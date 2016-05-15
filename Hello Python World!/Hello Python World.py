@@ -1,3 +1,3 @@
-#!/usr/bin/env python -O
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 print("Hello Python world!")
